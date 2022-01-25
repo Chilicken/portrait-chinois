@@ -24,7 +24,7 @@ maxinput = 7
 function Insertion() {
     document.querySelector(".content").innerHTML = '<img class="resized" style="opacity:9" src="media/altnoisemodified.gif">'
     setTimeout(function () {
-        texte = "<p class='texte'>" + "Si j'était  " + '<span class="important">' + analogies[numinput] + "</span>" + "<br> je serais " + '<span class=important>' + quoi[numinput] + "</span>" + "<br>parce que " + '<span class="important">' + explication[numinput] + "</span>" + "</p>" + "<p class='channel'>" + numinput + "</p>"
+        texte = "<p class='texte'>" + "Si j'étais  " + '<span class="important">' + analogies[numinput] + "</span>" + "<br> je serais " + '<span class=important>' + quoi[numinput] + "</span>" + "<br>parce que " + '<span class="important">' + explication[numinput] + "</span>" + "</p>" + "<p class='channel'>" + numinput + "</p>"
         document.querySelector(".écran").innerHTML = (texte)
         visual = "<img class='resized' " + src[numinput] + ">"
         document.querySelector(".content").innerHTML = (visual)
