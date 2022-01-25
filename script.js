@@ -15,7 +15,7 @@ email = ''
 formulairestatus = false
 analogies = ["", "un manga", "un oeuf", "un film d'action", "un film de super-héro", "une série humoristique", "un jeu-vidéo", "un objet"]
 quoi = ["", "Chainsaw Man", "mollet", "Fist of Fury", "Spider-Man 2", "It's Always Sunny in Philadelphia", "Apex Legends", "des écouteurs"]
-explication = ["", "le héro ne perd jamais ses objectifs de vue", "c'est le réconfort d'un à la coque avec le pratique d'un oeuf dur", "c'est mon film préféré de Bruce <br> Lee, le meilleur acteur de film d'art martiaux", "Peter Parker fini toujours par se relever malgré les difficultés qu'il rencontre", "le visionnage de cette série ne nécessite pas plus de 3 de QI", "c'est le jeu-vidéo qui me donne le plus d'adrénaline", "cela permet de se relaxer comme de se concentrer pour travailler"]
+explication = ["", "le héro ne perd jamais ses objectifs de vue", "c'est le réconfort d'un oeuf à la coque avec le pratique d'un oeuf dur", "c'est mon film préféré de Bruce <br> Lee, le meilleur acteur de film d'arts martiaux", "Peter Parker finit toujours par se relever malgré les difficultés qu'il rencontre", "le visionnage de cette série ne nécessite pas plus de 3 de QI", "c'est le jeu-vidéo qui me donne le plus d'adrénaline", "cela permet de se relaxer comme de se concentrer pour travailler"]
 src = ['', 'src="media/Chainsaw-Man-Wallpaper-5ew.jpg" alt=""', "src='media/10608128114_65aab19258_h ew.jpg'", "src='media/Thechineseconnection.jpg'", 'src="media/spider-man-2ew.jpg"', "src='media/3Vlr4QI-modified.gif'", "src='media/fahx-pv-apex-legends-season-6-4k-wallpaper2lag ew.jpg'", "src='media/nothingearew.jpg'"]
 numinput = 0
 maxinput = 7
