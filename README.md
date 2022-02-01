@@ -8,3 +8,5 @@ Alias "/[alias]"  "[chemin vers dossier site]"
 - Accéder au site par l’arborescence par l’adresse http://localhost  ou en saisissant l’adresse ipv4, puis en cliquant sur le dossier
 
 Ou par http://localhost/[Portrait-chinois-RTvT] ou http://localhost/[Alias].
+
+Url github: https://chilicken.github.io/portrait-chinois/
