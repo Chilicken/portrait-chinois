@@ -10,3 +10,4 @@ Alias "/[alias]"  "[chemin vers dossier site]"
 Ou par http://localhost/[Portrait-chinois-RTvT] ou http://localhost/[Alias].
 
 Url github: https://chilicken.github.io/portrait-chinois/
+
